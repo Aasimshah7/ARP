@@ -1,1 +1,1 @@
-# ARP
+Address Resolution Protocol (ARP)  is implemented through this program. The IP address of any Client is given as the input. The ARP cache is looked up for the corresponding hardware address. This is returned as the output. Before compiling that Client is pinged.
